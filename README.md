@@ -1,2 +1,2 @@
 # hello-world
-Projekt testowy
+Projekt testowy na podstawie tutoriala githuba
